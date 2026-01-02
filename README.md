@@ -84,15 +84,13 @@ A collection of the primary tools and technologies I use for my projects.
 
 <div align="center">
 
-  [![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pswaikar1742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Pswaikar1742)
+  <!-- Streak Stats (Hosted on Heroku, usually more stable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pswaikar1742&theme=tokyonight&hide_border=true" alt="Prathmesh's Streak" />
 
   <br>
 
-  [![Prathmesh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pswaikar1742&theme=tokyonight&hide_border=true)](https://github.com/Pswaikar1742)
-
-  <br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pswaikar1742&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pswaikar1742)
+  <!-- Top Languages (Using a different stable instance if possible, or try this one) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pswaikar1742&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 </p>
