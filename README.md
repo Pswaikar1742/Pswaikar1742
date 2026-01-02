@@ -82,15 +82,11 @@ A collection of the primary tools and technologies I use for my projects.
 
 ## 📊 My GitHub Stats
 
+## 📊 My GitHub Stats
+
 <div align="center">
 
-  <!-- Streak Stats (Hosted on Heroku, usually more stable) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pswaikar1742&theme=tokyonight&hide_border=true" alt="Prathmesh's Streak" />
-
-  <br>
-
-  <!-- Top Languages (Using a different stable instance if possible, or try this one) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pswaikar1742&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github.com/Pswaikar1742/Pswaikar1742/blob/main/github-metrics.svg" alt="Prathmesh's GitHub Metrics" width="100%" />
 
 </div>
 </p>
