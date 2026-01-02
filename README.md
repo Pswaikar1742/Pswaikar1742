@@ -82,8 +82,6 @@ A collection of the primary tools and technologies I use for my projects.
 
 ## 📊 My GitHub Stats
 
-## 📊 My GitHub Stats
-
 <div align="center">
 
   <img src="https://github.com/Pswaikar1742/Pswaikar1742/blob/main/github-metrics.svg" alt="Prathmesh's GitHub Metrics" width="100%" />
