@@ -9,13 +9,13 @@
   </a>
 </p>
 
-I'm a passionate Computer Science student at JNEC, specializing in **Artificial Intelligence**, **Quantum Computing**, and **Cloud Platforms**. I love building practical solutions to complex problems and leading community initiatives.
+I'm a passionate Computer Science student at JNEC, specializing in specializing in **Agentic AI**, **Quantum Computing**, and **Cloud-Native Architectures**. I love building autonomous systems and decentralized protocols.
 
 ---
 
-- 🔭 I’m currently working on enhancing my skills in **MLOps** and **cloud-native development (Docker, CI/CD)**.
-- 🌱 I’m currently learning through **Harvard's CS50** and exploring advanced **AI agentic workflows**.
-- 👯 I’m looking to collaborate on open-source **AI or Quantum Computing projects**.
+- 🔭 I’m currently building **autonomous multi-agent systems** using **LangChain** and **Google Gemini**.
+- 🌱 I’m currently enhancing my skills in **Rust (Soroban)** and **Kubernetes**.
+- 👯 I’m looking to collaborate on **Open-Source AI, Web3, or Quantum projects**.
 - 📫 How to reach me: Drop me a message on [LinkedIn](https://www.linkedin.com/in/prathmesh-waikar)!
 
 ---
@@ -27,31 +27,35 @@ A collection of the primary tools and technologies I use for my projects.
 <table>
   <tr>
     <td align="center" width="180">
-      <strong>AI / ML</strong>
+      <strong>Agentic AI & GenAI</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     </td>
   </tr>
   <tr>
     <td align="center" width="180">
-      <strong>Quantum Computing</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <strong>Cloud & Database</strong>
+      <strong>Cloud & DevOps</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <strong>Quantum & Web3</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar" />
     </td>
   </tr>
   <tr>
@@ -59,7 +63,7 @@ A collection of the primary tools and technologies I use for my projects.
       <strong>Languages & Web</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
