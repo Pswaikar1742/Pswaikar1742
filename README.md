@@ -82,6 +82,17 @@ A collection of the primary tools and technologies I use for my projects.
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pswaikar1742&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prathmesh's GitHub Stats" />
+<div align="center">
+
+  [![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pswaikar1742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Pswaikar1742)
+
+  <br>
+
+  [![Prathmesh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pswaikar1742&theme=tokyonight&hide_border=true)](https://github.com/Pswaikar1742)
+
+  <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pswaikar1742&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Pswaikar1742)
+
+</div>
 </p>
